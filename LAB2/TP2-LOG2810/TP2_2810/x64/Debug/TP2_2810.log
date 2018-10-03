@@ -1,0 +1,10 @@
+﻿  Zone.cpp
+c:\users\jean\documents\visual studio 2015\projects\tp2-log2810\tp2_2810\zone.cpp(8): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+  Vehicule.cpp
+  Utilisateur.cpp
+c:\users\jean\documents\visual studio 2015\projects\tp2-log2810\tp2_2810\utilisateur.cpp(11): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+  Main.cpp
+  Etat.cpp
+  Automate.cpp
+  Génération de code en cours...
+  TP2_2810.vcxproj -> C:\Users\Jean\Documents\Visual Studio 2015\Projects\TP2-LOG2810\x64\Debug\TP2_2810.exe
